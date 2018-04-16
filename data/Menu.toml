@@ -1,20 +1,15 @@
 [about]
 Name = "About"
 URL = "https://appernetic.io/app/#/about"
-
 [blog]
 Name = "Blog"
 URL = "https://blog.appernetic.io/"
-
 [dashboard]
-Name = "Dashboard"
-URL = "https://appernetic.io/app/#/dashboard/list/create"
-
-
+Name = ""
+URL = ""
 [posts]
 Name = "Posts"
 URL = "/post"
-
 [tags]
 Name = "Tags"
 URL = "/tags"
