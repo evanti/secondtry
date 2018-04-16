@@ -1,4 +1,6 @@
 ---
+pages:
+- post/what-is-hugo.md
 hide_body: false
 is_partial: false
 fields:
