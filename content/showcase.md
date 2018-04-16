@@ -1,17 +1,17 @@
 +++
-
-date = "2016-12-05T14:41:00+01:00"
-title = ""
 author = "author"
-draft = false
+date = "2016-12-05T14:41:00+01:00"
+keywords = []
+tags = []
+title = ""
+topics = []
 type = "page"
-[menu]
-     [menu.main]
-        name = "Showcase"
-        weight = 4
-        identifier = "showcase"
-+++
+[menu.main]
+identifier = "showcase"
+name = "Showcase"
+weight = 4
 
++++
 # Showcase
 
-Showcase text in english.
+Showcase text in english. This will be my new text!!!
